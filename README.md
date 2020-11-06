@@ -8,10 +8,15 @@
 * you could type on the keyboard on the supported keys .
 * deletes the whole word like "sin(" ,"log(" ..
 * shows the math errors if happend
+<br/>
 ![alt err](https://raw.githubusercontent.com/Mohamed-Fathy-Salah/scientificCalculator/main/picshots/error.png)
+<br/>
 * solves famous functions like ncr , log  , sin , root
+<br/>
 ![alt norm](https://raw.githubusercontent.com/Mohamed-Fathy-Salah/scientificCalculator/main/picshots/normal.png)
+<br/>
  ![alt scien](https://raw.githubusercontent.com/Mohamed-Fathy-Salah/scientificCalculator/main/picshots/scien.png)
+ <br/>
 
 ***
 ## supported keys ..
